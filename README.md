@@ -106,7 +106,7 @@ Product Marketing Manager specializing in luxury brands with a passion for creat
 - **LinkedIn**: [Your LinkedIn Profile]
 - **Email**: [Your Professional Email]
 - **Portfolio Website**: [Your Website]
-- **Location**: Jersey City, NJ | Open to Dubai & New York opportunities
+- **Location**: Jersey City, NJ | Open to New York opportunities
 
 ---
 
@@ -120,5 +120,5 @@ Product Marketing Manager specializing in luxury brands with a passion for creat
 
 Seeking Product Marketing Manager roles in luxury brands where I can leverage my expertise in go-to-market strategy, brand storytelling, and market insights to drive growth and create exceptional customer experiences.
 
-**Target Locations**: Dubai, New York, or remote opportunities with luxury brands
+**Target Locations**: New York, or remote opportunities with luxury brands
 **Industry Focus**: Luxury fashion, jewelry, lifestyle products, premium consumer goods
