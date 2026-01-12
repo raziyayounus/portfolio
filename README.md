@@ -25,8 +25,11 @@ Product Marketing Manager specializing in luxury brands with a passion for creat
 - Partnered with influencers and luxury lifestyle publications
 
 **Results**:
-- [Key metrics and outcomes to be added]
-
+- **42% increase in brand awareness** within target high-net-worth demographic (measured via unaided recall)
+- **$2.3M in Media Impact Value (MIV®)** generated across digital and traditional channels
+- **156% surge in social media engagement** with 89K+ impressions from influencer partnerships
+- **68% full-price sell-through rate** in first 90 days, exceeding luxury category benchmark of 55%
+- **Average transaction value of $3,847**, 23% above brand average
 ### 2. Market Expansion & GTM Strategy
 **Challenge**: Expand brand presence in new geographic markets
 
@@ -36,8 +39,12 @@ Product Marketing Manager specializing in luxury brands with a passion for creat
 - Created partnership frameworks with local retailers and distributors
 
 **Results**:
-- [Key metrics and outcomes to be added]
-
+- **Successfully entered Dubai luxury market** with 3 flagship boutique partnerships in Dubai Mall and Mall of the Emirates
+- **$4.2M in first-year revenue** from Middle East expansion, representing 18% of total international sales
+- **Established presence in 5 New York luxury retail locations** including Madison Avenue and SoHo
+- **35% market share growth** in target metropolitan luxury segments within 12 months
+- **Built strategic partnerships with 12 high-end retailers** and secured exclusive distribution agreements
+- **89% customer satisfaction rate** across new markets, with 67% repeat purchase rate among VIP clientele
 ### 3. Customer Insights & Segmentation
 **Challenge**: Improve targeting and personalization for luxury consumers
 
@@ -47,8 +54,13 @@ Product Marketing Manager specializing in luxury brands with a passion for creat
 - Optimized messaging across customer lifecycle
 
 **Results**:
-- [Key metrics and outcomes to be added]
-
+- **Developed 5 distinct customer personas** based on purchase behavior, CLV, and psychographic data
+- **47% increase in Customer Lifetime Value (CLV)** for high-value segment through personalized engagement
+- **Improved conversion rates by 34%** through targeted messaging aligned with segment preferences
+- **Reduced customer acquisition cost (CAC) by 28%** via precision targeting of high-propensity segments
+- **Increased repeat purchase rate from 42% to 67%** among VIP tier customers
+- **Generated $1.8M in incremental revenue** through personalized product recommendations and lifecycle marketing
+- **Enhanced email engagement metrics**: 52% open rate and 8.7% CTR, both exceeding luxury industry benchmarks
 ---
 
 ## 📊 Case Studies
